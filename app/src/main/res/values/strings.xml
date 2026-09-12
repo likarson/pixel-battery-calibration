@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pixel Battery</string>
+    <string name="notification_channel_name">Battery Calibration Reminders</string>
+    <string name="notification_channel_desc">Alerts when battery calibration is due and when 30-minute top-off completes.</string>
+</resources>

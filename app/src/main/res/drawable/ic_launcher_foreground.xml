@@ -1,0 +1,50 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Battery Top Cap / Terminal -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M48,27 h12 c1.1,0 2,0.9 2,2 v3 h-16 v-3 c0,-1.1 0.9,-2 2,-2 z" />
+    
+    <!-- Outer Battery Body Frame -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M40,32 h28 c3.3,0 6,2.7 6,6 v40 c0,3.3 -2.7,6 -6,6 h-28 c-3.3,0 -6,-2.7 -6,-6 v-40 c0,-3.3 2.7,-6 6,-6 z" />
+
+    <!-- Battery Charge Fill Level -->
+    <path
+        android:fillColor="#059669"
+        android:pathData="M38,56 h32 v24 c0,1.5 -1.5,3 -3,3 h-26 c-1.5,0 -3,-1.5 -3,-3 z" />
+
+    <!-- Energy Bolt in Center -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M56,38 L45,56 h9 l-3,18 13,-20 h-9 z" />
+
+    <!-- Cycle Indicator Arrows (Left and Right arc) -->
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M24,45 A34,34 0 0,1 54,20" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M24,40 l-3.5,6 l6.5,-1 z" />
+
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M84,63 A34,34 0 0,1 54,88" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M84,68 l3.5,-6 l-6.5,1 z" />
+</vector>

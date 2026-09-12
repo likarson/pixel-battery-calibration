@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Battery",
+  "description": "Tracks Pixel phone battery cycle count and alerts every 10 cycles to fully charge and hold for 30 minutes for accurate sensor calibration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
